@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Karina!</h2>
+<h2 align="left">Hi 👋!</h2>
+<p> My name is Karina I'm from Brazil 😄 </p>
 
 ###
 
