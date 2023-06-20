@@ -19,16 +19,8 @@
 
 <h3 align="left"> Some of my skills are: </h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height="30" width="42" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="30" width="42" alt="rails logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,postgres,mysql,redis,docker,heroku,grafana,linux,postman)](https://skillicons.dev)
+  
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarinax&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kakarinax" /></p>
 
