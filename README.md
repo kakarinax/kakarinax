@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarinax&label=Profile%20views&color=0e75b6&style=flat" alt="kakarinax" /> </p>
 <p align="right"> <img align="right" height="150" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-2.gif"  /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and JavaScript**
+- 🌱 Constantly learning and trying to be better!
+- 🚀 Learning more about System Design and architecture and some design principles.
 
 ---
 
