@@ -19,7 +19,7 @@
 
 <h3 align="left"> Some of my skills are: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,mysql,redis,docker,heroku,grafana,linux,postman,python,airflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,postgres,mysql,mongodb,redis,docker,grafana,linux,postman,graphql,python,selenium)](https://skillicons.dev)
   
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarinax&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kakarinax" /></p>
