@@ -22,8 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,postgres,mysql,mongodb,redis,docker,grafana,linux,postman,graphql,python,selenium)](https://skillicons.dev)
   
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarinax&show_icons=true" alt="kakarinax" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarinax&show_icons=true&theme=dracula" alt="kakarinax" /></p>
 
-###
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kakarinax&show_icons=true&locale=en&theme=dracula" alt="kakarinax" /></p>
