@@ -18,10 +18,25 @@
 ---
 
 <h3 align="left"> Some of my skills are: </h3>
+<strong> Back-end and Database: </strong>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,postgres,mysql,mongodb,redis,docker,grafana,linux,postman,graphql,python,selenium)](https://skillicons.dev)
-  
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarinax&show_icons=true&theme=dracula" alt="kakarinax" /></p>
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,postgres,mysql,mongodb,graphql)](https://skillicons.dev)
 
+<strong> Caching & Messaging: </strong>
+
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+
+<strong> Testing </strong>
+- RSpec, TDD and pytest
+
+<strong> Infrastructure & Monitoring: </strong>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,grafana)](https://skillicons.dev)
+
+<strong> Webscrapping: </strong>
+
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+
+<strong> Job Processing: </strong> 
+- Sidekiq, Airflow
 
