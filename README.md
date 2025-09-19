@@ -40,3 +40,5 @@
 <strong> Job Processing: </strong> 
 - Sidekiq, Airflow
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakarinax)](https://github.com/anuraghazra/github-readme-stats)
+
